@@ -1,0 +1,30 @@
+p{
+    color: rgb(255, 0, 0);
+
+}
+
+.veshi{
+    color: rgb(115, 0, 71);
+}
+.veshi{
+    color: indigo;
+}
+.more{
+    color: greenyellow
+}
+
+header{
+    text-align: center;
+}
+
+nav a{
+    margin: 40px;
+    padding: 10px;
+    border: 1px solid red;
+    border-radius: 20%;
+
+}
+
+main{
+    margin-top: 50px;
+}
